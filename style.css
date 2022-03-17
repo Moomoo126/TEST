@@ -1,0 +1,12 @@
+body{
+    font-size: 40px;
+    background-color: rgb(246, 250, 214);
+    font-family: "Kaiti TC";
+}
+
+.content{
+    background-color: rgb(197, 252, 247);
+    color: #90d6f7;
+    position: static;
+    font-size: 75px;
+}
